@@ -1,0 +1,17 @@
+title :nth-child(1){
+      color:black;
+      font-size:50px;
+      font-family:Ubuntu;
+}
+
+body :nth-child(2){
+    color:black;
+    font-family:Ubuntu;
+    font-size:20px;
+}
+
+body :nth-child(3){
+      color:black;
+      font-family:Ubuntu;
+      font-size:16px;
+}
