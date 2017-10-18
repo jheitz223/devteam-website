@@ -161,11 +161,12 @@
 
 
 
-
+body{
+	font-family: 'Ubuntu';
+	font-style:normal;
+	font-weight: normal;
+}
 body:nth-child(2){
   color: red;
   font-size: 90px;
-  font-family: 'Ubuntu';
-	font-style:normal;
-	font-weight:normal;
-	
+}
