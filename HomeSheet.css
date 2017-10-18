@@ -155,6 +155,10 @@
 	font-weight: bold;
 	font-style: italic;
 }
+button {
+	font-family: 'Ubuntu';
+	font-weight: normal;
+	font-style: normal;
 
 body{
 	font-family: 'Ubuntu';
