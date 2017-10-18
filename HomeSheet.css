@@ -156,27 +156,23 @@
 	font-style: italic;
 }
 
+body{
+	font-family: 'Ubuntu';
+	font-weight: normal;
+	font-style: normal;
+}
 
 title :nth-child(1){
       color:black;
       font-size:50px;
-      font-family: 'Ubuntu';
-			font-weight:normal;
-			font-style:normal;
 }
 
 body :nth-child(2){
     color:black;
-    font-family:'Ubuntu';
     font-size:20px;
-		font-weight:normal;
-		font-style:normal;
 }
 
 body :nth-child(3){
       color:black;
-      font-family:'Ubuntu';
-			font-weight:normal;
-			font-style:normal;
       font-size:16px;
 }
