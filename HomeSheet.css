@@ -158,30 +158,19 @@
 
 li{
 	display:inline;
-<<<<<<< HEAD
-	
-=======
-
->>>>>>> 5b8f444a865449f106f6094755dac2651b7b89af
 }
 
 a{
 	text-decoration:none;
 }
 
-button{
-<<<<<<< HEAD
-	
-=======
-
->>>>>>> 5b8f444a865449f106f6094755dac2651b7b89af
-	padding: .2em 1em ;
+button{	padding: .2em 1em ;
 	float:center;
 	height: 40px;
 	width:300px;
 	background-color: #000000;
 	color: #f0ffff;
-	border:1px;
+	border:1
 	display:inline;
 	display:center;
 	font-size:20px;
@@ -191,24 +180,14 @@ button{
 	font-style: normal;
 }
 img{
-<<<<<<< HEAD
-	
-=======
-
->>>>>>> 5b8f444a865449f106f6094755dac2651b7b89af
 	display:inline;
 	position:absolute;
 	top:50;
-	left:750;
+	left:850;
 	text-align:center;
 	height:128px;
 	width:150px;
 	float:middle;
-<<<<<<< HEAD
-	
-=======
-
->>>>>>> 5b8f444a865449f106f6094755dac2651b7b89af
 }
 
 #nvbar{
@@ -220,19 +199,6 @@ position:relative;
 
 #nvbar ul {
 text-align:center;
-<<<<<<< HEAD
-background-color:#000000;	
-margin:0px;
-	
-}
-
-button:hover{
-	
-	background-color: #206DA1;
-	color: #ffffff;
-	
-	
-=======
 background-color:#000000;
 margin:0px;
 
@@ -244,7 +210,18 @@ button:hover{
 	color: #ffffff;
 
 
->>>>>>> 5b8f444a865449f106f6094755dac2651b7b89af
+
+background-color:#000000;
+margin:0px;
+
+}
+
+button:hover{
+
+	background-color: #206DA1;
+	color: #ffffff;
+
+
 }
 
 body{
@@ -266,21 +243,19 @@ title{
 h1{
 	font-size:50px;
 	text-align: center;
-<<<<<<< HEAD
-	
-	position:absolute;
-	top:100;
-	left:300;
-	
-	
-=======
 
 	position:absolute;
-	top:100;
+	top:150;
 	left:300;
 
 
->>>>>>> 5b8f444a865449f106f6094755dac2651b7b89af
+
+
+	position:absolute;
+	top:100;
+	left:300;
+
+
 }
 
 p{
@@ -289,16 +264,5 @@ p{
 	position:absolute;
 	top:200;
 	left:450;
-<<<<<<< HEAD
-	
-	
-=======
 
-
->>>>>>> 5b8f444a865449f106f6094755dac2651b7b89af
 }
-
-
-
-
-
