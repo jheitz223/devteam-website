@@ -153,6 +153,45 @@
 	font-weight: bold;
 	font-style: italic;
 }
+
+a{
+	text-decoration:none;
+}
+div{
+	background-color:black;
+	color:white;
+	border-radius:5px;
+	text-align:center;
+	
+}
+p{
+	display:block;
+	
+}
+button:hover{
+	
+	background-color: #206DA1;
+	color: #ffffff;
+	
+	
+}
+
+
+button{
+	
+	padding: .2em 1em ;
+	float:center;
+	background-color: #000000;
+	color: #f0ffff;
+	border:1px;
+	
+	font-size:20px;
+	text-align:center;
+	font-family: 'Ubuntu';
+	font-weight: normal;
+	font-style: normal;
+}
+
 body {
 	font-family: 'Ubuntu';
 	font-style:normal;
